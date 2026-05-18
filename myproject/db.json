@@ -1,0 +1,38 @@
+{
+  "favoritos": [
+    {
+      "userEmail": "herikthiury@gmail.com",
+      "cca3": "BRA",
+      "name": "Brazil",
+      "capital": "Brasília",
+      "flag": "https://flagcdn.com/w320/br.png",
+      "id": "oy0WtoTHd9I"
+    },
+    {
+      "userEmail": "herikthiury2017@gmail.com",
+      "cca3": "ALB",
+      "name": "Albania",
+      "capital": "Tirana",
+      "flag": "https://flagcdn.com/w320/al.png",
+      "id": "xGtf5nAnMKs"
+    }
+  ],
+  "perfis": [
+    {
+      "userEmail": "herikthiury@gmail.com",
+      "fotoUrl": "https://res.cloudinary.com/daqgo66y5/image/upload/v1779145909/mcajre2bgomdp9iuhbyc.jpg",
+      "id": "G9ORtiELow8"
+    },
+    {
+      "userEmail": "herikthiury2017@gmail.com",
+      "fotoUrl": "https://res.cloudinary.com/daqgo66y5/image/upload/v1779146175/ozsojahngfcdwmooqq88.jpg",
+      "id": "dWgUpxUzfzE"
+    },
+    {
+      "userEmail": "njr1466@gmail.com",
+      "fotoUrl": "https://res.cloudinary.com/daqgo66y5/image/upload/v1779146127/cafvteduhyixw2yw5ywq.jpg",
+      "id": "ww9ts25FsBM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
